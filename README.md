@@ -131,12 +131,12 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ### Training Loss:
-![img1](https://github.com/vijay21500269/named-entity-recognition/blob/main/dl1.png)
+![image](https://user-images.githubusercontent.com/75235293/197328939-d0f8f656-0d66-422e-aa7b-3c1effaeafe6.png)
 ### Training Loss vs Validation loss:
-![img](https://github.com/vijay21500269/named-entity-recognition/blob/main/dl2.png)
+![image](https://user-images.githubusercontent.com/75235293/197328959-b1106545-ef4d-4aad-8739-ff8bbb575b93.png)
 
 ### Sample Text Prediction:
-![img](https://github.com/vijay21500269/named-entity-recognition/blob/main/dl3.png)
+![image](https://user-images.githubusercontent.com/75235293/197328978-569f3f41-818a-4bb3-a0ee-b5239963db3e.png)
 
 ## RESULT
 Successfully developed LSTM based rnn model for named-entity-recognition.
